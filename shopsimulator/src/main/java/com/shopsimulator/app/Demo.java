@@ -31,7 +31,6 @@ public class Demo {
         //retorna essa aplication
         return app;
     }
-
     //cria o método main
     public static void main(String[] args) {
         //chama o método de configuração da aplication através de um objeto da classe Aplication
