@@ -15,8 +15,8 @@ public class App
         Director director = new Director();
         CarBuilder carBuilder = new CarBuilder();
         ManualBuilder manualBuilder = new ManualBuilder();
-        director.makeSUV(carBuilder);
-        director.makeSUV(manualBuilder);
+        // director.makeSUV(carBuilder);
+        // director.makeSUV(manualBuilder);
         director.makeSportCar(carBuilder);
         director.makeSportCar(manualBuilder);
         carBuilder.getResult();
