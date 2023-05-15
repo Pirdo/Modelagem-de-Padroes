@@ -1,4 +1,4 @@
-package com.prototype;
+package com.singleton;
 
 import static org.junit.Assert.assertTrue;
 
