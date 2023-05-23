@@ -1,4 +1,4 @@
-package com.singleton;
+package com.adapter;
 
 import static org.junit.Assert.assertTrue;
 
