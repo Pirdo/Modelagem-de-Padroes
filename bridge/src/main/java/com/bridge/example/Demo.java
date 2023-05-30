@@ -9,7 +9,7 @@ import com.bridge.devices.Radio;
 public class Demo {
     public static void main(String[] args) {
         testDrive(new Tv());
-        // testDrive(new Radio());
+        testDrive(new Radio());
     }
 
     public static void testDrive(Device device) {
